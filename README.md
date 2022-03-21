@@ -1,4 +1,4 @@
-# sendingemailwithpython
+# Sending Email with Python
 Django framework study project
 
 Contact form created in Django as object of study.
